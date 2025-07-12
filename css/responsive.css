@@ -655,9 +655,9 @@
     margin-right: 25px;
   }
   .tg-menu-area.menu-area .mobile-nav-toggler {
-    background-image: -moz-linear-gradient(5deg, #ff6970 0%, #FF6D00 100%);
-    background-image: -webkit-linear-gradient(5deg, #ff6970 0%, #FF6D00 100%);
-    background-image: -ms-linear-gradient(5deg, #ff6970 0%, #FF6D00 100%);
+    background-image: -moz-linear-gradient(5deg, #ff6970 0%, #ed1c24 100%);
+    background-image: -webkit-linear-gradient(5deg, #ff6970 0%, #ed1c24 100%);
+    background-image: -ms-linear-gradient(5deg, #ff6970 0%, #ed1c24 100%);
   }
   .tg-banner-content .sub-title {
     font-size: 22px;
